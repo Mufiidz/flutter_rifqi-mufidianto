@@ -7,6 +7,7 @@ Date    : Day 4
 ```
 
 ## Summary
+Dalam materi ini, mempelajari tentang Introduction to Algorithm and Dart Programming, dan berikut beberapa ringkasan dari materi yang telah dipelajari.
 - Dart merupakan bahasa pemrograman yang dirancang untuk membuat aplikasi agar dapat berjalan dengan cepat.
 - Kenapa harus Dart?
     - Type safe -> konsistensi tipe data
