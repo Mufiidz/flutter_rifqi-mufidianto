@@ -1,12 +1,57 @@
-# 05. Basic Dart Programming
+# 05. Basic Dart Programming (Branching)
 
 ```
 Name    : Rifqi Mufidianto 
-Section : 05. Basic Dart Programming
+Section : 05. Basic Dart Programming (Branching)
 Date    : Day 5
 ```
 
 ## Summary
+### Branching
+**IF**
+- Memerlukan nilai boolean (bool) (dari operator logical atau comparison)
+- Menjalankan bagian proses jika nilai bool bernilai true
+```
+var usia = 18;
+if (usia < 20) {
+    print('Remaja');
+}
+```
+**IF-ELSE**
+- Berjalan dengan `if`
+- Menambah alternatif jika nilai boolean (bool) adalah false
+```
+var usia = 18;
+if (usia < 20) {
+    print('Remaja');
+} else {
+    print('tidak memiliki golongan');
+}
+```
+atau menggunakan ternary operator (one line if-else)
+```
+var usia = 18;
+usia < 20 ? print('Remaja'); : print('tidak memiliki golongan');
+```
+**ELSE-IF**
+- Menambah alternatif jika nilai boolean (bool) adalah false
+- Menambah pengujian nilai boolean (bool) lain
+```
+var usia = 18;
+if (usia < 20) {
+    print('Remaja');
+} else if (usia < 40 ) {
+    print('Dewasa');
+} else {
+    print('tidak memiliki golongan');
+}
+```
+atau menggunakan ternary operator (one line if-else)
+```
+var usia = 18;
+(usia < 20) ? print('Remaja'); : (usia < 40) ? print('Dewasa'); : print('tidak memiliki golongan');
+```
+### Fungsi
 - Fungsi adalah blok bangunan kode yang dapat dibaca, dipelihara, dan dapat digunakan kembali.
 - Anonymous Function
     - Tidak memiliki nama
@@ -49,33 +94,6 @@ Date    : Day 5
     hello dari p1
     hello dari p2
     ```
-- Collection -> Kumpulan data pada satu tempat
-    - List -> Menyimpan data secara berbaris dan setiap data memiliki index.
-        ```
-        var numbers = [];
-        numbers.add(1);
-        numbers.add(2);
-        numbers.add(3);
-        print(numbers);
-
-        output:
-        [1, 2, 3]
-        ```
-    - Map -> Menyimpan data secara key-value. Key yang berguna selayaknya index pada list.
-        ```
-        var student = {};
-        student['name'] = 'Fulan';
-        student['age'] = 21;
-
-        print(student);
-        print(student['name']);
-        print(student['age']);
-
-        output:
-        {name: Fulan, age: 21}
-        Fulan
-        21
-        ```
 
 ## Task
 Berikut hasil yang telah dicoba dan didapatkan pada materi ini.

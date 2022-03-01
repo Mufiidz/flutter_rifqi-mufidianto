@@ -6,6 +6,7 @@ Ini adalah kumpulan dari beberapa tugas dan rangkuman dari beberapa minggu selam
 - [Week 1](#week-1)
 - [Week 2](#week-2)
 - [Week 3](#week-3)
+<!-- - [Week 4](#week-4) -->
 
 
 Detail of Weeks
@@ -27,3 +28,10 @@ Detail of Weeks
 ### Week 3
 - Day 11 - [Collection](/08_Collection/)
 - Day 12 - [Dart Object Oriented Programming](/09_Dart_Object_Oriented_Programming_1/)
+<!-- - Day 13 - [Constructor, Inheritance](/10_Dart_Object_Oriented_Programming_2/)
+- Day 14 - [Method Overriding](/10_Dart_Object_Oriented_Programming_2/)
+- Day 15 - [Interface, Abstract Class](/10_Dart_Object_Oriented_Programming_2/)
+
+### Week 4
+- Day 16 - [Polymorphism](/10_Dart_Object_Oriented_Programming_2/)
+- Day 17 - [Generics](/10_Dart_Object_Oriented_Programming_2/) -->
