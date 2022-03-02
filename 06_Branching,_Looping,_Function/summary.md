@@ -136,3 +136,31 @@ Berikut hasil yang telah dicoba dan didapatkan pada materi ini.
 
 - c. 30!
     ![Screenshoots Tugas 2.1](./screenshoots/tugas2.3.jpg)
+
+### Tugas Tambahan
+Berikut merupakan tugas tambahan dari mentor mengenai branching.
+
+**Tugas 1**
+- [Tugas Tambahan 1](./praktikum/tambahan/tugas_01.dart)
+
+![Screenshoots Tugas Tambahan 1](./screenshoots/tugas_tambahan_1.jpg)
+
+**Tugas 2**
+- [Tugas Tambahan 2](./praktikum/tambahan/tugas_02.dart)
+
+![Screenshoots Tugas Tambahan 2](./screenshoots/tugas_tambahan_2.jpg)
+
+**Tugas 3**
+- [Tugas Tambahan 3](./praktikum/tambahan/tugas_03.dart)
+
+![Screenshoots Tugas Tambahan 3](./screenshoots/tugas_tambahan_3.jpg)
+
+**Tugas 4**
+- [Tugas Tambahan 4](./praktikum/tambahan/tugas_04.dart)
+
+![Screenshoots Tugas Tambahan 4](./screenshoots/tugas_tambahan_4.jpg)
+
+**Tugas 5**
+- [Tugas Tambahan 5](./praktikum/tambahan/tugas_05.dart)
+
+![Screenshoots Tugas Tambahan 5](./screenshoots/tugas_tambahan_5.jpg)
