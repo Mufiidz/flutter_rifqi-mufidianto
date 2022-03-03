@@ -138,7 +138,7 @@ Berikut hasil yang telah dicoba dan didapatkan pada materi ini.
     ![Screenshoots Tugas 2.1](./screenshoots/tugas2.3.jpg)
 
 ### Tugas Tambahan
-Berikut merupakan tugas tambahan dari mentor mengenai branching.
+Berikut merupakan tugas tambahan dari mentor mengenai branching, looping, and function.
 
 **Tugas 1**
 - [Tugas Tambahan 1](./praktikum/tambahan/tugas_01.dart)
@@ -164,3 +164,26 @@ Berikut merupakan tugas tambahan dari mentor mengenai branching.
 - [Tugas Tambahan 5](./praktikum/tambahan/tugas_05.dart)
 
 ![Screenshoots Tugas Tambahan 5](./screenshoots/tugas_tambahan_5.jpg)
+
+### Tugas Tambahan 2
+Berikut merupakan tugas tambahan dari mentor mengenai branching.
+
+**Tugas 1**
+- [Tugas Tambahan 1](./praktikum/tambahan2/tugas1.dart)
+
+![Screenshoots Tugas Tambahan 1](./screenshoots/tugas_tambahan_1.1.jpg)
+
+**Tugas 2**
+- [Tugas Tambahan 2](./praktikum/tambahan2/tugas2.dart)
+
+![Screenshoots Tugas Tambahan 2](./screenshoots/tugas_tambahan_2.1.jpg)
+
+**Tugas 3**
+- [Tugas Tambahan 3](./praktikum/tambahan2/tugas3.dart)
+
+![Screenshoots Tugas Tambahan 3](./screenshoots/tugas_tambahan_3.1.jpg)
+
+**Tugas 4**
+- [Tugas Tambahan 4](./praktikum/tambahan2/tugas4.dart)
+
+![Screenshoots Tugas Tambahan 4](./screenshoots/tugas_tambahan_4.1.jpg)
