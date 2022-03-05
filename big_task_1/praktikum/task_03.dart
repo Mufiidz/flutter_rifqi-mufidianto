@@ -4,6 +4,7 @@ import 'dart:math';
 
 void main() {
   var exampleNumber = Random().nextInt(10);
+  print('Input = $exampleNumber');
   jamPasir(exampleNumber);
 }
 

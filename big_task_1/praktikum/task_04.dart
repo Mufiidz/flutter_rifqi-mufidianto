@@ -4,6 +4,7 @@ import 'dart:math';
 
 void main() {
   var exampleNumber = Random().nextInt(16);
+  print('Input = $exampleNumber');
   diagonalNumber(exampleNumber);
 }
 
