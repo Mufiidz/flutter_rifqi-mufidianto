@@ -24,6 +24,7 @@ Detail of Weeks
 - Day 8 - [Function](/06_Branching,_Looping,_Function/)
 - Day 9 - [Advance Function](/07_Advance_Function,_Async-Await/)
 - Day 10 - [Async-Await](/07_Advance_Function,_Async-Await/)
+- Big Task 1 - [Big Task for Basic Dart Programming](/big_task_1/)
 
 ### Week 3
 - Day 11 - [Collection](/08_Collection/)
