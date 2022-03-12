@@ -145,3 +145,25 @@ Berikut hasil yang telah dicoba dan didapatkan pada materi ini.
 - [Tugas 2](./praktikum/task_02/task_02.dart)
 
 ![Screenshoots Tugas 2](./screenshoots/tugas2.jpg)
+
+## Task (Mentor)
+### Tugas 1
+- [Pistol](./praktikum/mentor/task_01/pistol.dart)
+- [Tugas 1](./praktikum/mentor/task_01/task_01.dart)
+
+![Screenshoots Tugas 1](./screenshoots/tugasmentor1.jpg)
+
+### Tugas 2
+- [Mobil](./praktikum/mentor/task_02/mobil.dart)
+- [Tugas 2](./praktikum/mentor/task_02/task_02.dart)
+
+![Screenshoots Tugas 2](./screenshoots/tugasmentor2.jpg)
+
+### Tugas 3
+- [Hewan](./praktikum/mentor/task_03/hewan.dart)
+- [Kucing](./praktikum/mentor/task_03/kucing.dart)
+- [Unggas](./praktikum/mentor/task_03/unggas.dart)
+- [Burung](./praktikum/mentor/task_03/burung.dart)
+- [Tugas 3](./praktikum/mentor/task_03/task_03.dart)
+
+![Screenshoots Tugas 3](./screenshoots/tugasmentor3.jpg)
