@@ -7,6 +7,7 @@ Ini adalah kumpulan dari beberapa tugas dan rangkuman dari beberapa minggu selam
 - [Week 2](#week-2)
 - [Week 3](#week-3)
 - [Week 4](#week-4)
+- [Week 5](#week-5)
 
 
 Detail of Weeks
@@ -36,3 +37,13 @@ Detail of Weeks
 ### Week 4
 - Day 16 - [Polymorphism](/10_Dart_Object_Oriented_Programming_2/)
 - Day 17 - [Generics](/10_Dart_Object_Oriented_Programming_2/)
+- Day 18 - [Introduction Flutter Widget](/11_Introduction_Flutter_Widget/)
+- Day 19 - [Platform Widget](/12_Platform_Widget/)
+- Day 20 - [Platform Widget](/12_Platform_Widget/)
+
+### Week 5
+- Day 21 - [Flutter Command Line Interface (CLI) and Flutter package management](/13_Flutter_Command_Line_Interface_(CLI)_and_Flutter_package_management/)
+- Day 22 - [Flutter Layout](/14_Flutter_Layout/)
+- Day 23 - [Flutter Layout](/14_Flutter_Layout/)
+- Day 24 - [Assets](/15_Assets/)
+- Day 25 - [Assets](/15_Assets/)
