@@ -167,3 +167,9 @@ Berikut hasil yang telah dicoba dan didapatkan pada materi ini.
 - [Tugas 3](./praktikum/mentor/task_03/task_03.dart)
 
 ![Screenshoots Tugas 3](./screenshoots/tugasmentor3.jpg)
+
+### Tugas 4
+- [Generics](./praktikum/mentor/task_04/generics.dart)
+- [Tugas 4](./praktikum/mentor/task_04/main.dart)
+
+![Screenshoots Tugas 4](./screenshoots/tugasmentor4.jpg)

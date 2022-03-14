@@ -9,6 +9,7 @@ Ini adalah kumpulan dari beberapa tugas dan rangkuman dari beberapa minggu selam
 - [Week 4](#week-4)
 - [Week 5](#week-5)
 - [Week 6](#week-6)
+<!-- - [Week 7](#week-7) -->
 
 
 Detail of Weeks
@@ -55,3 +56,10 @@ Detail of Weeks
 - Day 28 - [Form Picker](/17_Form_Picker/)
 - Day 29 - [Dialog, Bottom Sheet](/18_Dialog_Bottom_Sheet/)
 - Day 30 - [Flutter Navigation](/19_Flutter_Navigation/)
+<!-- 
+### Week 7
+- Day 31 - [Flutter State Management (Provider)](/20_Flutter_State_Management_(Provider)/)
+- Day 32 - [Flutter State Management (Provider)](/20_Flutter_State_Management_(Provider)/)
+- Day 33 - [Flutter State Management (BLoC)](/21_Flutter_State_Management_(BLoC)/)
+- Day 34 - [Flutter State Management (BLoC)](/21_Flutter_State_Management_(BLoC)/)
+- Day 35 - []() -->

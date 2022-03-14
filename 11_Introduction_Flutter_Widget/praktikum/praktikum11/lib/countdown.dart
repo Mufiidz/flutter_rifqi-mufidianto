@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 
 class Countdown extends StatefulWidget {
-  final Duration? duration;
+  final Duration duration;
   final bool isCountdown;
 
   const Countdown(
@@ -20,7 +20,7 @@ class _CountdownState extends State<Countdown> {
 
   @override
   void initState() {
-    _duration = widget.duration ?? const Duration();
+    _duration = widget.duration;
     startTimer(widget.isCountdown);
     super.initState();
   }
@@ -52,4 +52,10 @@ class _CountdownState extends State<Countdown> {
   }
 
   String twoDigits(int n) => n.toString().padLeft(2, '0');
+
+  @override
+  void dispose() {
+    _timer.cancel();
+    super.dispose();
+  }
 }

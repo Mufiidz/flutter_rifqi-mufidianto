@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const MyHomePage(title: 'Flutter Widget'),
+      home: const MyHomePage(title: 'Stopwatch & Countdown'),
     );
   }
 }
@@ -37,15 +37,10 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         title: Text(widget.title),
       ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: const <Widget>[
-            Countdown(
-              isCountdown: false,
-              duration: Duration(hours: 20, minutes: 20),
-            ),
-          ],
+      body: const Center(
+        child: Countdown(
+          isCountdown: false,
+          duration: Duration(hours: 20, minutes: 20),
         ),
       ),
     );
