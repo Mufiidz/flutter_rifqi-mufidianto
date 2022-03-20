@@ -10,6 +10,8 @@ Ini adalah kumpulan dari beberapa tugas dan rangkuman dari beberapa minggu selam
 - [Week 5](#week-5)
 - [Week 6](#week-6)
 - [Week 7](#week-7)
+- [Week 8](#week-8)
+- [Week 9](#week-9)
 
 
 Detail of Weeks
@@ -63,3 +65,17 @@ Detail of Weeks
 - Day 33 - [Flutter State Management (BLoC)](/21_Flutter_State_Management_(BLoC)/)
 - Day 34 - [Flutter State Management (BLoC)](/21_Flutter_State_Management_(BLoC)/)
 - Day 35 - [Flutter Animation](/22_Flutter_Animation/)
+
+### Week 8
+- Day 36 - [Stroage](/23_Storage/)
+- Day 37 - [Storage](/23_Storage/)
+- Day 38 - [Introduction REST API - JSON serialization/deserialization](/24_Introduction_REST_API_-_JSON_serialization/)
+- Day 39 - [Introduction REST API - JSON serialization/deserialization](/24_Introduction_REST_API_-_JSON_serialization/)
+- Day 40 - [MVVM Architecture](/25_MVVM_Architecture/)
+
+### Week 9
+- Day 41 - [MVVM Architecture](/25_MVVM_Architecture/)
+- Day 42 - [Finite State Machine & Unit Testing](/26_Finite_State_Machine_&_Unit_Testing/)
+- Day 43 - [Finite State Machine & Unit Testing](/26_Finite_State_Machine_&_Unit_Testing/)
+- Day 44 - [UI Testing](/27_UI_Testing/)
+- Day 45 - [UI Testing](/27_UI_Testing/)
