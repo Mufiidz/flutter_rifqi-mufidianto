@@ -1,8 +1,8 @@
-# 18. Dialog, Bottom Sheet
+# 15. Dialog, Bottom Sheet
 
 ```
 Name    : Rifqi Mufidianto 
-Section : 18. Dialog, Bottom Sheet
+Section : 15. Dialog, Bottom Sheet
 Date    : Day 29
 ``` 
 

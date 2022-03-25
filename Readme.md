@@ -49,14 +49,14 @@ Detail of Weeks
 - Day 21 - [Flutter Command Line Interface (CLI) and Flutter package management](/13_Flutter_Command_Line_Interface_(CLI)_and_Flutter_package_management/)
 - Day 22 - [Flutter Layout](/14_Flutter_Layout/)
 - Day 23 - [Flutter Layout](/14_Flutter_Layout/)
-- Day 24 - [Assets](/15_Assets/)
-- Day 25 - [Assets](/15_Assets/)
+- Day 24 - [Dialog, Bottom Sheet](/15_Dialog_Bottom_Sheet/)
+- Day 25 - [Dialog, Bottom Sheet](/15_Dialog_Bottom_Sheet/)
 
 ### Week 6
 - Day 26 - [Form Input Button](/16_Form_Input_Button/)
 - Day 27 - [Form Input Button](/16_Form_Input_Button/)
 - Day 28 - [Form Picker](/17_Form_Picker/)
-- Day 29 - [Dialog, Bottom Sheet](/18_Dialog_Bottom_Sheet/)
+- Day 29 - [Assets](/18_Assets/)
 - Day 30 - [Flutter Navigation](/19_Flutter_Navigation/)
 
 ### Week 7

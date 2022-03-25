@@ -1,8 +1,8 @@
-# 15. Assets
+# 18. Assets
 
 ```
 Name    : Rifqi Mufidianto 
-Section : 15. Assets
+Section : 18. Assets
 Date    : Day 24 & 25
 ``` 
 
@@ -58,4 +58,4 @@ Berikut hasil yang telah dicoba dan didapatkan pada materi ini. Pada project ini
 
 ## Preview
 
-![Praktikum 15](./screenshoots/praktikum15.gif)
+![Praktikum 18](./screenshoots/praktikum15.gif)
